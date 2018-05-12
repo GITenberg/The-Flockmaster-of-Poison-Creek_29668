@@ -1,0 +1,45 @@
+_repo: The-Flockmaster-of-Poison-Creek_29668
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ivory, P. V. E.
+    aliases:
+    - Ivory, P. V. E. (Percy van Eman)
+    - Ivory, Percy Van Eman
+    - Ivory, P.V.E.
+    - Ivory, P. Van E.
+    birthdate: 1883
+    deathdate: 1960
+    gutenberg_agent_id: '32357'
+    url: http://www.gutenberg.org/2009/agents/32357
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ogden, George W. (George Washington)
+    aliases:
+    - Ogden, G. W. (George Washington)
+    - Ogden, George Washington
+    birthdate: 1871
+    deathdate: 1966
+    gutenberg_agent_id: '9477'
+    url: http://www.gutenberg.org/2009/agents/9477
+description: John Mackenzie trod the trail from Jasper to the great sheep country
+  where fortunes were being made by the flock-masters. But shepherding was not a peaceful
+  pursuit in those bygone days. In this epic of the sheeplands, where men fight their
+  best fights for a woman, adventure meets Mackenzie at every turn.
+gutenberg_issued: '2009-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29668'
+  lccn: '21005075'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+title: The Flockmaster of Poison Creek
+url: http://www.gutenberg.org/ebooks/29668
